@@ -1,6 +1,3 @@
-input.onLogoEvent(TouchButtonEvent.Pressed, function () {
-	
-})
 function bock () {
     basic.showLeds(`
         . . . . .
